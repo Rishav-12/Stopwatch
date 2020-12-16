@@ -7,5 +7,5 @@ General-purpose stopwatch
 
 ### How to use
 * Double-click on the main.pyw file to view the GUI built using Tkinter.
-* The 3 buttons do exactly what they say, i.e., **Start**, **Stop** and **Resume**.
+* The 3 buttons do exactly what they say, i.e., **Start**, **Stop** and **Reset**.
 * The .png file is used as application icon
